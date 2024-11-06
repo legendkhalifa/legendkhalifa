@@ -1,4 +1,12 @@
-## Hi there 👋
+Hi 👋 My name is Muhammad Tukur Muhammad
+========================================
+
+Data Scientist |🌐Web developer
+-------------------------------
+
+*   🌍  I'm based in Nigeria
+*   ✉️  You can contact me at [legendkhaleefa@gmail.com](mailto:legendkhaleefa@gmail.com)
+*   ⚡  I'm secretly spiderman 🤣, but don't let anybody know
 
 <!--
 **legendkhalifa/legendkhalifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
